@@ -1,0 +1,13 @@
+http://www.lamda.nju.edu.cn/code_PVC.ashx
+
+PVC
+Description: This package for multi-view clustering where every view suffers from the missing of some data. In particular, different from previous multi-view studies which assumed that each example appears in alll views, PVC deals with a more realistic case where every view suffers from the missing of some data, and therefore results in many partial examples. This package include the MATLAB implementation of PVC. A readme file and an example file are included in the package.
+
+References:S.-Y. Li, Y. Jiang, and Z.-H. Zhou. Partial multi-view clustering. In: Proceedings of the 28th AAAI Conference on Artificial Intelligence (AAAI'14), Quebec City, Canada, 2014.
+ATTN: This package is free for academic usage. You can run it at your own risk. For other purposes, please contact Prof. Zhi-Hua Zhou.
+
+Requirement: The package was developed with MATLAB.
+
+ATTN: This package is free for academic usage. You can run it at your own risk. It was developed by Ms. Shao-Yuan Li (lisy@nuaa.edu.cn) during her Phd work in LAMDA. For any problem concerning the code, please feel free to contact Ms. Li(lisy@nuaa.edu.cn).  For other purposes, please contact Professor Zhi-Hua Zhou(zhouzh@nju.edu.cn).
+
+Download: [code] (146KB)
